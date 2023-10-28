@@ -9,4 +9,4 @@ Development 🌐 | Learning, coding, and creating web magic! 🚀
 *   🌍  I'm based in Karachi-Pakistan
 *   ✉️  You can contact me at [waqas.se2020@gmail.com](mailto:waqas.se2020@gmail.com)
 *   🧠  I'm learning JavaScript
-*   🤝  I'm open to collaborating on HTML, CSS & Js### Skills 
+*   🤝  I'm open to collaborating on HTML, CSS & JavaScript Skills 
